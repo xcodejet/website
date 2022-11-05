@@ -2,5 +2,5 @@
 
 
 <div align="center">
-  <img src="./xcodejet-media/xcodejet_gif.gif">
+  <img src="https://github.com/xcodejet/xcodejet/blob/main/xcodejet-media/xcodejet_gif.gif">
 </div>
